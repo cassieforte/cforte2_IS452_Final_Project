@@ -9,7 +9,7 @@ The player will need to run the code in a python environment, such as PyCharm. T
 ## Built With
 
 * [PyCharm](https://www.jetbrains.com/pycharm/) - The python environment used to write the code
-* [ReadMe Template] (https://gist.github.com/PurpleBooth/109311bb0361f32d87a2) - Thank you, Billie Thompson
+* [ReadMe Template](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2) - Thank you, Billie Thompson
 
 
 
