@@ -1,11 +1,25 @@
-# 452-Final-Project-Txt_Adv_Game
-452: Foundations of Information Processing 
-Final Assignment Programming Project: Text Adventure Game
-by Cassandra Forte 
+# The Haunted House
+The Haunted House is a text adventure game written by Cassandra Forte as a final project for IS452: Foundations of Information Processing. In this game, players will navigate the many rooms of a Haunted House looking for a way out. Players will choose between three directions in each room they visit: left, right, and straight. The house does not make sense; you will get lost.  
 
-In this game, you will navigate the rooms of a haunted house, trying to escape. 
-You will need the key to succeed. 
+## Getting Started and How to Play
 
-To play, you will need a mouse and keyboard. 
-Launch the program, and navigate by typing, "left", "right", or "straight". 
+The player will need to run the code in a python environment, such as PyCharm. The story progresses through lines of text, which will inform the player which room they're in. Look for hints in the text to determine the best direction to pick, and try to remember where you have and have not been. The key to success can be in unlikely places.  
+
+
+## Built With
+
+* [PyCharm](https://www.jetbrains.com/pycharm/) - The python environment used to write the code
+* [ReadMe Template] (https://gist.github.com/PurpleBooth/109311bb0361f32d87a2) - Thank you, Billie Thompson
+
+
+
+## Authors
+
+* **Cassandra Forte** 
+
+
+## Acknowledgments
+
+* PyCharm
+* GitHub and Billie Thompson 
 
