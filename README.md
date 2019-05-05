@@ -3,9 +3,9 @@ The Haunted House is a text adventure game written by Cassandra Forte as a final
 
 ## Getting Started and How to Play
 
-The player will need to run the code in a python environment, such as PyCharm. The story progresses through lines of text, which will inform the player which room they're in. Look for hints in the text to determine the best direction to pick, and try to remember where you have and have not been. The key to success can be in unlikely places. 
+The player will need to run the code in a python environment, such as PyCharm. The story progresses through lines of text, which will inform the player which room they're in. Look for hints in the text to determine the best direction to pick, although they aren't always the most helpful so be careful. Try to remember where you have and have not been, some rooms do not lead back to where you came from. The key to success can be in unlikely places. 
 
-Players will need to navigate the house and locate the key in order to win the game. There are several directions that will lead to death. In the event of death, the program will end and the player can choose to restart the game from the beginning.
+Players will need to navigate the house and locate the key in order to win the game. There are several directions that will lead to death. In the event of death, the program will end and the player can choose to restart the game from the beginning. Make sure to ttype your choices correctly so as not to repeat the room you're currently in. 
 
 
 ## Built With
