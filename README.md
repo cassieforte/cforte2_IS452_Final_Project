@@ -1,5 +1,6 @@
 # The Haunted House
-The Haunted House is a text adventure game written by Cassandra Forte as a final project for IS452: Foundations of Information Processing. In this game, players will navigate the many rooms of a Haunted House looking for a way to escape. Players will choose between three directions in each room they visit: left, right, and straight. The house does not make sense; you will get lost.   
+The Haunted House is a text adventure game written by Cassandra Forte as a final project for IS452: Foundations of Information Processing. In this game, players will navigate the many rooms of a Haunted House looking for a way to escape. Players will choose between three directions in each room they visit: left, right, and straight. The house does not make sense; you will get lost. This game will hopefully be updated in the future, adding new rooms, scenarios, and possibly outcomes. 
+Eventually, it will hopefully resemble the Winchester Mystery Mansion. 
 
 ## Getting Started and How to Play
 
